@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "cardTitle": "aws-sdk-js",
+    "cardSubtitle": "AWS SDK for JavaScript in the browser and Node.js",
+    "fullname": "aws/aws-sdk-js",
+    "owner": "aws",
+    "stars": "6793",
+    "language": "Javascript",
+    "forks": "1405"
+  },
+  {
+    "id": "2",
+    "cardTitle": "aws-sdk-java",
+    "cardSubtitle": "The official AWS SDK for Java.",
+    "fullname": "aws/aws-sdk-java",
+    "owner": "aws",
+    "stars": "3628",
+    "language": "Java",
+    "forks": "2677"
+  },
+  {
+    "id": "3",
+    "cardTitle": "aws-toolkit-eclipse",
+    "cardSubtitle": "AWS Toolkit for Eclipse an open-source plugin for developing, deploying, and managing AWS applications.",
+    "fullname": "aws/aws-toolkit-eclipse",
+    "owner": "aws",
+    "stars": "259",
+    "language": "Java",
+    "forks": "183"
+  },
+  {
+    "id": "4",
+    "cardTitle": "aws-cli",
+    "cardSubtitle": "Universal Command Line Interface for Amazon Web Services",
+    "fullname": "aws/aws-cli",
+    "owner": "aws",
+    "stars": "11571",
+    "language": "Python",
+    "forks": "2872"
+  },
+  {
+    "id": "5",
+    "cardTitle": "opsworks-cookbooks",
+    "cardSubtitle": "opsworks-cookbooks",
+    "fullname": "aws/opsworks-cookbooks",
+    "owner": "aws",
+    "stars": "1057",
+    "language": "Ruby",
+    "forks": "1260"
+  },
+  {
+    "id": "6",
+    "cardTitle": "aws-sessionstore-dynamodb-ruby",
+    "cardSubtitle": "Handles sessions for Ruby web applications using DynamoDB as a backend.",
+    "fullname": "aws/aws-sessionstore-dynamodb-ruby",
+    "owner": "aws",
+    "stars": "65",
+    "language": "Ruby",
+    "forks": "36"
+  },
+  {
+    "id": "7",
+    "cardTitle": "aws-cloudtrail-processing-library",
+    "cardSubtitle": "The AWS CloudTrail Processing Library helps Java developers to easily consume and process log files from AWS CloudTrail.",
+    "fullname": "aws/aws-cloudtrail-processing-library",
+    "owner": "aws",
+    "stars": "73",
+    "language": "Java",
+    "forks": "36"
+  },
+  {
+    "id": "8",
+    "cardTitle": "aws-sdk-js-dist-tools",
+    "cardSubtitle": "Please see aws/aws-sdk-js for distribution tools",
+    "fullname": "aws/aws-sdk-js-dist-tools",
+    "owner": "aws",
+    "stars": "6",
+    "language": "Javascript",
+    "forks": "12"
+  },
+  {
+    "id": "9",
+    "cardTitle": "aws-parallelcluster",
+    "cardSubtitle": "AWS ParallelCluster is an AWS supported Open Source cluster management tool to deploy and manage HPC clusters in the AWS cloud.",
+    "fullname": "aws/aws-parallelcluster",
+    "owner": "aws",
+    "stars": "647",
+    "language": "Python",
+    "forks": "234"
+  },
+  {
+    "id": "10",
+    "cardTitle": "aws-eb-python-dockerfiles",
+    "cardSubtitle": "Official Elastic Beanstalk repository for Python docker files.",
+    "fullname": "aws/aws-eb-python-dockerfiles",
+    "owner": "aws",
+    "stars": "59",
+    "language": "Shell",
+    "forks": "34"
+  },
+  {
+    "id": "11",
+    "cardTitle": "s2n-tls",
+    "cardSubtitle": "s2n : an implementation of the TLS/SSL protocols",
+    "fullname": "aws/s2n-tls",
+    "owner": "aws",
+    "stars": "4005",
+    "language": "C",
+    "forks": "590"
+  },
+  {
+    "id": "12",
+    "cardTitle": "amazon-ecs-agent",
+    "cardSubtitle": "Amazon Elastic Container Service Agent",
+    "fullname": "aws/amazon-ecs-agent",
+    "owner": "aws",
+    "stars": "1853",
+    "language": "Go",
+    "forks": "512"
+  }
+]
